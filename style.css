@@ -87,11 +87,4 @@ body{
     color: #170C08;
 }
 
-.teste-back{
-    background: linear-gradient(1deg, #44461F 10%, #C92E1C, #E13713, #FB6B14, #FF951B);
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    width: 100%;  
-}
 
